@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "119907152748",
+    "project_id": "desafiofirebase-934ad",
+    "storage_bucket": "desafiofirebase-934ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119907152748:android:abc834c4e3da4d20df7949",
+        "android_client_info": {
+          "package_name": "com.example.desafiofirebase_digitalhousemobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119907152748-5et0qvsrfq85ie2odj2er7cak67e51ag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgIcOJNGudN9uz6vOZFKA48S9qLerhMGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119907152748-5et0qvsrfq85ie2odj2er7cak67e51ag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
