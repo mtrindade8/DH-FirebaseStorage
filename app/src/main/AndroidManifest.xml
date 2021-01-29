@@ -11,10 +11,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.DesafioFirebase_DigitalHouseMobile">
-        <activity android:name=".CadastroActivity"></activity>
+        <activity android:name=".LoginActivity"></activity>
+        <activity android:name=".CadastroActivity" />
         <activity android:name=".HomeActivity" />
         <activity
-            android:name=".LoginActivity"
+            android:name=".SplashScreenActivity"
             android:label="@string/app_name"
             android:theme="@style/Theme.DesafioFirebase_DigitalHouseMobile.NoActionBar">
             <intent-filter>
