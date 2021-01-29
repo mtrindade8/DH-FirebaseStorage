@@ -23,7 +23,12 @@
         tools:layout="@layout/fragment_detalhe_jogo" >
         <action
             android:id="@+id/action_detalheJogoFragment_to_jogoFragment"
-            app:destination="@id/jogoFragment" />
+            app:destination="@id/jogoFragment"
+            app:launchSingleTop="false"
+            app:popUpToInclusive="false" />
+        <argument
+            android:name="jogo"
+            app:argType="com.example.desafiofirebase_digitalhousemobile.Jogo" />
     </fragment>
     <fragment
         android:id="@+id/cadastraJogoFragment"
